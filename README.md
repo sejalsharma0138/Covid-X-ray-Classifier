@@ -13,11 +13,11 @@ Data generators were created to load images from the paths and model was finally
 Metrics like accuracy and precision were measured to gain more insights into the model
 
 Training data
-![train][https://github.com/sejalsharma0138/Covid-X-ray-Classifier/blob/main/Training%20samples.png]
+![train](https://github.com/sejalsharma0138/Covid-X-ray-Classifier/blob/main/Training%20samples.png)
 
 Training and Performance Plots
-![plots][https://github.com/sejalsharma0138/Covid-X-ray-Classifier/blob/main/Training%20and%20performance%20slots.png]
+![plots](https://github.com/sejalsharma0138/Covid-X-ray-Classifier/blob/main/Training%20and%20performance%20slots.png)
 
 Results
-![res1][https://github.com/sejalsharma0138/Covid-X-ray-Classifier/blob/main/Precision%20results%20per%20class.png]
-![res2][https://github.com/sejalsharma0138/Covid-X-ray-Classifier/blob/main/recall%20and%20f-score.png]
+![res1](https://github.com/sejalsharma0138/Covid-X-ray-Classifier/blob/main/Precision%20results%20per%20class.png)
+![res2](https://github.com/sejalsharma0138/Covid-X-ray-Classifier/blob/main/recall%20and%20f-score.png)
